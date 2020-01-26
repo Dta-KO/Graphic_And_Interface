@@ -1,4 +1,4 @@
-package com.example.graphicandinterface;
+package com.com.graphic;
 
 import org.junit.Test;
 

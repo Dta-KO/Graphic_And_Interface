@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name='Graphic And Interface'
+include ':demoformwidgets', ':demographic'
+rootProject.name = 'Graphic And Interface'
